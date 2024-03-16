@@ -3,6 +3,7 @@
 Credit: https://www.youtube.com/watch?v=kCc8FmEb1nY&list=WL&index=42&t=10s
 
 STOPS at 42:20 min
+- Need review on optimizer, loss, cross entropy
 
 ## Links
 
